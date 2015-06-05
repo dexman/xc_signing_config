@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    xc_signing_config (0.1.0)
+      rubyzip
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rubygems-tasks (0.2.4)
+    rubyzip (1.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rubygems-tasks
+  xc_signing_config!
